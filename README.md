@@ -14,12 +14,12 @@ The purpose of this repository is to provide a comprehensive set of test cases t
 The test cases are organized into different categories based on the features and functionalities of Shein.com.
  Each test case should include the following information:
 
--Test case ID
--Test case description
--Pre-requisites
--Test steps
--Expected results
--Actual results (to be filled during test execution)
+- Test case ID
+- Test case description
+- Pre-requisites
+- Test steps
+- Expected results
+- Actual results 
 
 
 ## :star: Scenarios

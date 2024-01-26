@@ -1,8 +1,8 @@
 # Manual Testing Website(Shein.com) - Test Cases with Scenarios,Mindmaps, Reports and Test Metrics
 
-[![Linkedin](https://www.linkedin.com/in/amit-saha-179b2299/)](https://www.linkedin.com/in/amit-saha-179b2299/)
+[![Linkedin](https://www.linkedin.com/in/amit-saha-179b2299/)]
 
-## Don't forget to give a  to make the project popular. 
+
 
 ## :boom: What is this project about?
 This project contains test cases, scenarios, mindmaps, reports, and test metrics for a US based e-commerce website known as www.shein.com.us. 

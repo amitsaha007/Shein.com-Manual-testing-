@@ -2,7 +2,7 @@
 
 [![Linkedin](https://www.linkedin.com/in/amit-saha-179b2299/)]
 
-
+<img src="assets/poster.jpg" width=2000 height=500/>
 
 ## :boom: What is this project about?
 This project contains test cases, scenarios, mindmaps, reports, and test metrics for a US based e-commerce website known as www.shein.com.us. 
@@ -16,12 +16,12 @@ The purpose of this repository is to provide a comprehensive set of test cases t
 The test cases are organized into different categories based on the features and functionalities of Shein.com.
  Each test case should include the following information:
 
-Test case ID
-Test case description
-Pre-requisites
-Test steps
-Expected results
-Actual results (to be filled during test execution)
+-Test case ID
+-Test case description
+-Pre-requisites
+-Test steps
+-Expected results
+-Actual results (to be filled during test execution)
 
 
 ## :star: Scenarios
